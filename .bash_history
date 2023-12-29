@@ -26,3 +26,7 @@ docker ps
 su
 cd "/home/ubuntu"
 su
+docker ps
+su
+clear
+su
